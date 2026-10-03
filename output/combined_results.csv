@@ -1,0 +1,11 @@
+test_id,module,status,duration
+TC001,Login,PASS,2.5
+TC002,Login,FAIL,3.1
+TC003,Dashboard,PASS,1.8
+TC004,API,PASS,2.2
+TC005,Storage,FAIL,4.5
+TC006,Login,PASS,2.1
+TC007,Dashboard,SKIP,0.0
+TC008,API,FAIL,3.8
+TC009,Storage,PASS,4.2
+TC010,API,PASS,2.7

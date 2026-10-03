@@ -1,0 +1,11 @@
+{
+    "total_tests": 10,
+    "passed": 6,
+    "failed": 3,
+    "skipped": 1,
+    "failed_tests": [
+        "TC002",
+        "TC005",
+        "TC008"
+    ]
+}
