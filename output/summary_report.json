@@ -7,5 +7,31 @@
         "TC002",
         "TC005",
         "TC008"
-    ]
+    ],
+    "module_summary": {
+        "Login": {
+            "total": 3,
+            "passed": 2,
+            "failed": 1,
+            "skipped": 0
+        },
+        "Dashboard": {
+            "total": 2,
+            "passed": 1,
+            "failed": 0,
+            "skipped": 1
+        },
+        "API": {
+            "total": 3,
+            "passed": 2,
+            "failed": 1,
+            "skipped": 0
+        },
+        "Storage": {
+            "total": 2,
+            "passed": 1,
+            "failed": 1,
+            "skipped": 0
+        }
+    }
 }
